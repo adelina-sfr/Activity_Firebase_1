@@ -1,5 +1,5 @@
 <resources>
-    <string name="namaApp">Testingku</string>
+    <string name="namaApp">Test Firebase</string>
     <string name="btTambah">Tambah Data</string>
     <string name="btLihat">Lihat Data</string>
     <string name="bOk">Submit Data</string>
